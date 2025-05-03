@@ -3,7 +3,7 @@
     "collection": "nightmare",
     "data": "WEAPON_CASE",
     "price": "1.99",
-    "rarity": "1"
+    "rarity": "0.02"
   },
   "00002": {
     "collection": "nightmare",
@@ -15,31 +15,31 @@
     "collection": "nightmare",
     "data": "CHARM_GAZING-MIRROR",
     "price": "UNKNOWN",
-    "rarity": "40"
+    "rarity": "0.60"
   },
   "00004": {
     "collection": "nightmare",
     "data": "CHARM_HEXCATCHER",
     "price": "UNKNOWN",
-    "rarity": "40"
+    "rarity": "2"
   },
   "00005": {
     "collection": "nightmare",
     "data": "CHARM_HYPNO-BEAST",
     "price": "UNKNOWN",
-    "rarity": "20"
+    "rarity": "36"
   },
   "00006": {
     "collection": "nightmare",
     "data": "CHARM_NIGHTMARE",
     "price": "UNKNOWN",
-    "rarity": "10"
+    "rarity": "70"
   },
   "00007": {
     "collection": "nightmare",
     "data": "CHARM_PACK",
     "price": "UNKNOWN",
-    "rarity": "1"
+    "rarity": "65"
   },
   "00008": {
     "collection": "nightmare",
