@@ -2,50 +2,49 @@
   "00001": {
     "collection": "nightmare",
     "data": "WEAPON_CASE",
-    "price": "1.99",
-    "rarity": "0.02"
+    "price": "1.99"
   },
   "00002": {
     "collection": "nightmare",
     "data": "BUTTERFLY_RIPPLE",
     "price": "UNKNOWN",
-    "rarity": "1"
+    "rarity": "0.09%"
   },
   "00003": {
     "collection": "nightmare",
     "data": "CHARM_GAZING-MIRROR",
     "price": "UNKNOWN",
-    "rarity": "0.60"
+    "rarity": "1"
   },
   "00004": {
     "collection": "nightmare",
     "data": "CHARM_HEXCATCHER",
     "price": "UNKNOWN",
-    "rarity": "2"
+    "rarity": "3"
   },
   "00005": {
     "collection": "nightmare",
     "data": "CHARM_HYPNO-BEAST",
     "price": "UNKNOWN",
-    "rarity": "36"
+    "rarity": "5"
   },
   "00006": {
     "collection": "nightmare",
     "data": "CHARM_NIGHTMARE",
     "price": "UNKNOWN",
-    "rarity": "70"
+    "rarity": "50"
   },
   "00007": {
     "collection": "nightmare",
     "data": "CHARM_PACK",
     "price": "UNKNOWN",
-    "rarity": "65"
+    "rarity": "50"
   },
   "00008": {
     "collection": "nightmare",
     "data": "CHARM_VOODO-DOLL",
     "price": "UNKNOWN",
-    "rarity": "40"
+    "rarity": "50"
   },
   "00009": {
     "collection": "nightmare",
