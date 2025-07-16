@@ -2,209 +2,214 @@
   "00001": {
     "collection": "nightmare",
     "data": "WEAPON_CASE",
-    "price": "1.99"
+    "price": "80.00"
   },
   "00002": {
     "collection": "nightmare",
     "data": "BUTTERFLY_RIPPLE",
-    "price": "2",
-    "rarity": "0.09"
+    "price": "1680.00",
+    "rarity": "0.20"
   },
   "00003": {
-    "collection": "nightmare",
     "data": "CHARM_GAZING-MIRROR",
-    "price": "3",
+    "collection": "nightmare",
+    "price": "5.10",
     "rarity": "1"
   },
   "00004": {
     "collection": "nightmare",
     "data": "CHARM_HEXCATCHER",
-    "price": "4",
+    "price": "3.91",
     "rarity": "3"
   },
   "00005": {
     "collection": "nightmare",
     "data": "CHARM_HYPNO-BEAST",
-    "price": "3",
+    "price": "128.00",
     "rarity": "5"
   },
   "00006": {
     "collection": "nightmare",
     "data": "CHARM_NIGHTMARE",
-    "price": "1",
-    "rarity": "50"
+    "price": "17.16",
+    "rarity": "7"
   },
   "00007": {
     "collection": "nightmare",
     "data": "CHARM_PACK",
-    "price": "1",
-    "rarity": "50"
+    "price": "72.74",
+    "rarity": "5"
   },
   "00008": {
     "collection": "nightmare",
     "data": "CHARM_VOODO-DOLL",
-    "price": "1",
+    "price": "4.95",
     "rarity": "50"
   },
   "00009": {
     "collection": "nightmare",
     "data": "CHIBI_SLEEPWALKER",
-    "price": "1",
+    "price": "10.40",
     "rarity": "100"
   },
   "00010": {
     "collection": "nightmare",
     "data": "DUAL-DAGGERS_CONTAGION",
-    "price": "1",
-    "rarity": "100"
+    "price": "594.00",
+    "rarity": "0.80"
   },
   "00011": {
     "collection": "nightmare",
     "data": "FN-FAL_ASTRAL-RIFT",
-    "price": "1",
-    "rarity": "100"
+    "price": "159.88",
+    "rarity": "2"
   },
   "00012": {
     "collection": "nightmare",
     "data": "GRAFFITI_HYPNOSIS",
-    "price": "1",
+    "price": "0.57",
     "rarity": "100"
   },
   "00013": {
     "collection": "nightmare",
     "data": "GRAFFITI_NO-SLEEP",
-    "price": "1",
+    "price": "0.66",
     "rarity": "100"
   },
   "00014": {
     "collection": "nightmare",
     "data": "GRAFFITI_PACK",
-    "price": "1",
+    "price": "4.40",
     "rarity": "100"
   },
   "00015": {
     "collection": "nightmare",
     "data": "GRAFFITI_RAGGED",
-    "price": "UNKNOWN",
-    "rarity": "100"
+    "price": "0.49",
+    "rarity": "20"
   },
   "00016": {
     "collection": "nightmare",
     "data": "GRAFFITI_RELENTLESS",
-    "price": "UNKNOWN",
+    "price": "2.07",
     "rarity": "100"
   },
   "00017": {
     "collection": "nightmare",
     "data": "GRAFFITI_WAKE-UP!",
-    "price": "UNKNOWN",
+    "price": "0.47",
     "rarity": "100"
   },
   "00018": {
     "collection": "nightmare",
     "data": "JCOMMANDO_PLASMA",
-    "price": "UNKNOWN",
+    "price": "730.00",
     "rarity": "100"
   },
   "00019": {
     "collection": "nightmare",
     "data": "KARAMBIT_WINDOW-WEAVE",
-    "price": "UNKNOWN",
+    "price": "1399.00",
     "rarity": "100"
   },
   "00020": {
     "collection": "nightmare",
     "data": "KUKRI_DECAY",
-    "price": "UNKNOWN",
+    "price": "540.00",
     "rarity": "100"
   },
   "00021": {
     "collection": "nightmare",
     "data": "M110_DARK_PACT",
-    "price": "UNKNOWN",
-    "rarity": "100"
+    "price": "0.19",
+    "rarity": "20"
   },
   "00022": {
     "collection": "nightmare",
     "data": "M16_WRAITHWOOD",
-    "price": "UNKNOWN",
-    "rarity": "100"
+    "price": "5.90",
+    "rarity": "5.90"
   },
   "00023": {
     "collection": "nightmare",
     "data": "MAC10_ARCANE_SURGE",
-    "price": "UNKNOWN",
-    "rarity": "100"
+    "price": "4.82",
+    "rarity": "10"
   },
   "00024": {
     "collection": "nightmare",
     "data": "STICKER_ARACHNID",
-    "price": "UNKNOWN",
+    "price": "13.90",
     "rarity": "100"
   },
   "00025": {
     "collection": "nightmare",
     "data": "STICKER_BEWARE-THE-BEAR",
-    "price": "UNKNOWN",
+    "price": "6.90",
     "rarity": "100"
   },
   "00026": {
     "collection": "nightmare",
     "data": "STICKER_HYPNOSIS",
-    "price": "UNKNOWN",
+    "price": "7.00",
     "rarity": "100"
   },
   "00027": {
     "collection": "nightmare",
     "data": "STICKER_PACK",
-    "price": "UNKNOWN",
+    "price": "24.30",
     "rarity": "100"
   },
   "00028": {
     "collection": "nightmare",
     "data": "STICKER_SPECTRAL-MIST",
-    "price": "UNKNOWN",
+    "price": "9.70",
     "rarity": "100"
   },
   "00029": {
     "collection": "nightmare",
     "data": "STICKER_STALKED",
-    "price": "UNKNOWN",
+    "price": "118.00",
     "rarity": "100"
   },
   "00030": {
     "collection": "nightmare",
     "data": "STING_ARCANE-SURGE",
-    "price": "UNKNOWN",
+    "price": "1150.00",
     "rarity": "100"
   },
   "00031": {
     "collection": "nightmare",
     "data": "USP_SUTURE",
-    "price": "UNKNOWN",
-    "rarity": "100"
+    "price": "0.25",
+    "rarity": "15"
   },
   "00032": {
     "collection": "nightmare",
     "data": "VAL_WINDOW-WEAVE",
-    "price": "UNKNOWN",
+    "price": "175.88",
     "rarity": "100"
   },
   "00033": {
     "collection": "nightmare",
     "data": "WEAPON_BOX",
-    "price": "UNKNOWN",
+    "price": "35.80",
     "rarity": "100"
   },
   "00034": {
     "collection": "nightmare",
     "data": "WEAPON_CASE",
-    "price": "UNKNOWN",
+    "price": "79.80",
     "rarity": "100"
   },
   "00035": {
     "collection": "nightmare",
     "data": "KNIFE_CASE",
-    "price": "5.50"
+    "price": "2674.00"
+  },
+    "00036": {
+    "collection": "nightmare",
+    "data": "NIGHTMARE_SURGE_CASE",
+    "price": "75"
   }
 }
