@@ -8,7 +8,7 @@
     "collection": "nightmare",
     "data": "BUTTERFLY_RIPPLE",
     "price": "1680.00",
-    "rarity": "0.20"
+    "rarity": "0.05"
   },
   "00003": {
     "data": "CHARM_GAZING-MIRROR",
@@ -25,7 +25,7 @@
   "00005": {
     "collection": "nightmare",
     "data": "CHARM_HYPNO-BEAST",
-    "price": "128.00",
+    "price": "3.0",
     "rarity": "5"
   },
   "00006": {
@@ -56,7 +56,7 @@
     "collection": "nightmare",
     "data": "DUAL-DAGGERS_CONTAGION",
     "price": "594.00",
-    "rarity": "0.80"
+    "rarity": "0.50"
   },
   "00011": {
     "collection": "nightmare",
@@ -74,7 +74,7 @@
     "collection": "nightmare",
     "data": "GRAFFITI_NO-SLEEP",
     "price": "0.66",
-    "rarity": "100"
+    "rarity": "70"
   },
   "00014": {
     "collection": "nightmare",
@@ -134,7 +134,7 @@
     "collection": "nightmare",
     "data": "MAC10_ARCANE_SURGE",
     "price": "4.82",
-    "rarity": "10"
+    "rarity": "30"
   },
   "00024": {
     "collection": "nightmare",
@@ -152,7 +152,7 @@
     "collection": "nightmare",
     "data": "STICKER_HYPNOSIS",
     "price": "7.00",
-    "rarity": "100"
+    "rarity": "25.0"
   },
   "00027": {
     "collection": "nightmare",
@@ -170,7 +170,7 @@
     "collection": "nightmare",
     "data": "STICKER_STALKED",
     "price": "118.00",
-    "rarity": "100"
+    "rarity": "5"
   },
   "00030": {
     "collection": "nightmare",
@@ -182,13 +182,13 @@
     "collection": "nightmare",
     "data": "USP_SUTURE",
     "price": "0.25",
-    "rarity": "15"
+    "rarity": "60"
   },
   "00032": {
     "collection": "nightmare",
     "data": "VAL_WINDOW-WEAVE",
     "price": "175.88",
-    "rarity": "100"
+    "rarity": "4.5"
   },
   "00033": {
     "collection": "nightmare",
