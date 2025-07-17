@@ -1,0 +1,61 @@
+{
+  "cases": [
+    {
+      "case_name": "SURGE_CASE",
+      "case_price": "3.00",
+      "skins": [
+        {
+          "skin_id": "00002",
+          "rarity": "0.05"
+        },
+        {
+          "skin_id": "00010",
+          "rarity": "0.50"
+        },
+        {
+          "skin_id": "00011",
+          "rarity": "2.0"
+        },
+        {
+          "skin_id": "00005",
+          "rarity": "3.0"
+        },
+        {
+          "skin_id": "00032",
+          "rarity": "4.5"
+        },
+        {
+          "skin_id": "00029",
+          "rarity": "5.0"
+        },
+        {
+          "skin_id": "00026",
+          "rarity": "25.0"
+        },
+        {
+          "skin_id": "00023",
+          "rarity": "30.0"
+        },
+        {
+          "skin_id": "00031",
+          "rarity": "60.0"
+        },
+        {
+          "skin_id": "00013",
+          "rarity": "70.0"
+        }
+      ]
+    },
+    {
+      "case_name": "TEST_CASE",
+      "case_price": "1.00",
+      "case_block": true,
+      "skins": [
+        {
+          "skin_id": "00002",
+          "rarity": "2"
+        }
+      ]
+    }
+  ]
+}
